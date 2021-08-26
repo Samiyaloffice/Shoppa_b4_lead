@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Online Front/Documents/Shoppatoshuaib-master/app/src/main/res/drawable/gradient_back.xml" value="0.1" />
+        <entry key="..\:/Users/Online Front/Documents/Shoppatoshuaib-master/app/src/main/res/drawable/ic_trianlge_right.xml" value="0.1" />
+        <entry key="..\:/Users/Online Front/Documents/Shoppatoshuaib-master/app/src/main/res/layout/buyer_card_layout.xml" value="0.1" />
+        <entry key="..\:/Users/Online Front/Documents/Shoppatoshuaib-master/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/Online Front/Documents/Shoppatoshuaib-master/app/src/main/res/layout/dashboard_fragment.xml" value="0.2" />
+        <entry key="..\:/Users/Online Front/Documents/Shoppatoshuaib-master/app/src/main/res/layout/home_fragment.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
